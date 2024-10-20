@@ -1,5 +1,6 @@
 package main
 
+// вот ты и закомментил
 import (
 	"fmt"
 )
